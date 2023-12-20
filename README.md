@@ -1,5 +1,5 @@
 # Punishment
-A case for the Infernum PCB from [HaiZeus](https://haizeuskb.bigcartel.com/) inspired by [Bully](https://www.cbkbd.com/product/bully)
+A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspired by [Bully](https://www.cbkbd.com/product/bully)
 
 <img src="https://github.com/Chronomap/Punishment/blob/main/Images/PunishmentCaseHome.png" Width="600">
 
