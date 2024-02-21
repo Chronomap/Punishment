@@ -7,7 +7,7 @@ A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspire
 
 ## Features
 - One-piece case designed for 3D printing
-  - designed for use with self-tapping M2 screws for plastic, I'll be using [these](https://www.mcmaster.com/96817A207/)
+  - designed for use with M2 screws screwed directly in
 - Fits stock plate
 - 4° typing angle 
 - Cherry-ish lip
@@ -22,7 +22,7 @@ All relevant STL and STEP files are available, currently only with a blank block
 
 Additional parts needed:
 - Infernum [PCB and Plate](https://haizeuskb.bigcartel.com/product/infernum-pcb-only-group-buy)
-- 4 M2x5(ish)mm screws. I used machine screws,self-tapping screws for plastic may also work
+- 4 M2x5(ish)mm screws. I used machine screws,self-tapping screws for plastic like [these](https://www.mcmaster.com/96817A207/) may also work
 - 4 P3D/Aeternus feet
 
 ## QA Notes
