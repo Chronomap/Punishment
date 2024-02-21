@@ -22,7 +22,7 @@ All relevant STL and STEP files are available, currently only with a blank block
 
 Additional parts needed:
 - Infernum [PCB and Plate](https://haizeuskb.bigcartel.com/product/infernum-pcb-only-group-buy)
-- 4 M2x5(ish)mm self-tapping screws for plastic
+- 4 M2x5(ish)mm screws. I used machine screws,self-tapping screws for plastic may also work
 - 4 P3D/Aeternus feet
 
 ## QA Notes
