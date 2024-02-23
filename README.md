@@ -1,3 +1,6 @@
+# IMPORTANT- Files do not work
+Somehow I messed up a dimension and the fitment is too tight. Will update when I get a chance
+
 # Punishment
 A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspired by [Bully](https://www.cbkbd.com/product/bully)
 
