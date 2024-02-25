@@ -1,6 +1,3 @@
-# IMPORTANT- Files do not work
-Somehow I messed up a dimension and the fitment is too tight. Will update when I get a chance
-
 # Punishment
 A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspired by [Bully](https://www.cbkbd.com/product/bully)
 
@@ -22,6 +19,7 @@ A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspire
 ## Want one?
 
 All relevant STL and STEP files are available, currently only with a blank blocker
+### IMPORTANT- Files downloaded prior to 2/25/2024 are faulty. The hole for the PCB was too tight, this has since been corrected.
 
 Additional parts needed:
 - Infernum [PCB and Plate](https://haizeuskb.bigcartel.com/product/infernum-pcb-only-group-buy)
