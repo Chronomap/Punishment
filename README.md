@@ -19,7 +19,7 @@ A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspire
 ## Want one?
 
 All relevant STL and STEP files are available, currently only with a blank blocker
-### IMPORTANT- Files downloaded prior to 2/25/2024 are faulty. The hole for the PCB was too tight, this has since been corrected.
+### IMPORTANT - Some dimensions/tolerances have been updated, make sure you have the most up to date files
 
 Additional parts needed:
 - Infernum [PCB and Plate](https://haizeuskb.bigcartel.com/product/infernum-pcb-only-group-buy)
