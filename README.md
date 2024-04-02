@@ -1,7 +1,7 @@
 # Punishment
 A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspired by [Bully](https://www.cbkbd.com/product/bully)
 
-<img src="https://github.com/Chronomap/Punishment/blob/main/Images/photoTop.jpg" Width="600">
+<img src="https://github.com/Chronomap/Punishment/blob/main/Images/Punishmentv2.jpg" Width="600">
 
 *(see it's called Punishment bc it's bullying but like a hellish spin on that)*
 
@@ -23,7 +23,7 @@ A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspire
 
 ## Want one?
 
-All relevant STL and STEP files are available, currently only with a blank blocker
+All relevant STL and STEP files are available
 ### IMPORTANT - Some dimensions/tolerances have been updated, make sure you have the most up to date files
 
 Additional parts needed:
@@ -43,6 +43,7 @@ Use what's in this repository as you see fit, within reason.
 If you build one, shoot me some pics! I'm best contacted on Discord @Chronomap
 
 ## Additional Pics
+<img src="https://github.com/Chronomap/Punishment/blob/main/Images/photoTop.jpg" Width="600">
 <img src="https://github.com/Chronomap/Punishment/blob/main/Images/photoSide.jpg" Width="600">
 <img src="https://github.com/Chronomap/Punishment/blob/main/Images/PunishmentCaseHome.png" Width="600">
 <img src="https://github.com/Chronomap/Punishment/blob/main/Images/PunishmentCaseTop.png" Width="600">
