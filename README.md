@@ -15,6 +15,11 @@ A case for the [Infernum](https://haizeuskb.bigcartel.com/) from HaiZeus inspire
 - Fake seam because **I** think it looks nice
 - Cutouts for P3D/Aeternus Feet (36x6x1.5mm)
 - Open source permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
+## v2 Additions!
+- Slot for the brass foot/weight from the skeleton case
+  - Uses M2x5mm countersunk screws
+- Cool(?) bottom design and droplet top desgin
+- Wow!
 
 ## Want one?
 
